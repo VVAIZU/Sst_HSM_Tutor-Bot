@@ -7,9 +7,9 @@ import threading
 import json
 import time
 
-TOKEN = "6914893034:AAGTlaex82bLxG9WeBqdcq1-hx9eEUgE1Gg"
-NOTION_TOKEN = "secret_KpXGNoEwoe1jJxkEm2xO5106C48otoj4c9dfjt3CU5s"
-DATABASE_ID = "aaf6692403004a989f19d55c0231b9bc"
+TOKEN = ""
+NOTION_TOKEN = ""
+DATABASE_ID = ""
 
 bot = telebot.TeleBot(TOKEN)
 
